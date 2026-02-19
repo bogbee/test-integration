@@ -1,3 +1,3 @@
 ## Test
 
-- [Headings](headings.md)
+- [Headings](README.md)
