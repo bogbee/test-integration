@@ -1,4 +1,3 @@
 ## Test
 
-- [Headings](README.md)
-- [First Doc](First%20doc.md)
+- [Headings](docs/test.md)
