@@ -3,4 +3,4 @@
 - [Headings](docs/test.md)
 
 ## ASD
-- [Headings2](docs/test.md)
+- [Headings2](asd.md)
