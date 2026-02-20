@@ -1,5 +1,5 @@
 # default folder path is docs
-docsPath: "docs/"
+docsPath: "."
 structure:
   summary: summary.md
 # it is relative to docsPath, in this case docs/assets
