@@ -13,6 +13,10 @@
             "name": "TEST-JSON",
             "path": "categ/test.md",
             "children": []
+          },{
+            "name": "TEST-JSON",
+            "path": "README.md",
+            "children": []
           }]
       },
       { 
