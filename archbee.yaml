@@ -1,28 +1,35 @@
-# default folder path is docs
-docsPath: "."
-structure:
-  summary: summary.md
-# it is relative to docsPath, in this case docs/assets
-  assets: assets
-# footerTemplate, headerIncludes, customCSS, customJS are optional, they can be a string or an existing file
-footerTemplate: ""
-headerIncludes: ""
-customCSS: ""
-customJS: ""
-# shadowDocs is an array of paths/files,  used by archbee-ai to create embeddings, to define context
-shadowDocs:
-#  - "ai/docs/main.js"
-#  - "ai/package/app/**"
-# it will automatically publish the space if it has hostname configured in the settings
-publishSpace: false
-# site is array of objects, that can be used to track multiple paths in the same repo
-sites:
-#  - docsPath: apps/frontend/docs
-#    structure:
-#      summary: summary.md
-#      assets: assets
-#  - docsPath: apps/backend/docs
-#    structure:
-#      summary: summary.md
-#      assets: assets
-#    customCSS: ""
+{
+  "$schema": "https://api.archbee.com/git-config-schema",
+  "docsPath": ".",
+  "structure": {
+    "assets": "assets",
+    "docsTree": [
+      { 
+        "name": "Categ 1",
+        "children": [
+          {
+            "name": "TEST-JSON",
+            "path": "categ/test.md",
+          }]
+      },
+      { 
+        "name": "Categ 2",
+        "children": [
+          {
+            "name": "TEST_JWON_2",
+            "path": "docs/cc/test.md",
+            "children": []
+          }]
+      },
+       { 
+        "name": "Categ 3",
+        "children": [
+          {
+            "name": "TEST_JWON_3",
+            "path": "asd.md",
+            "children": []
+          }]
+      },
+    ]
+  }
+}
