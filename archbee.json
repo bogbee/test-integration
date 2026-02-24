@@ -10,7 +10,7 @@
         "children": [
           {
             "name": "TEST-JSON",
-            "path": "categ/test.md",
+            "path": "categ/test.md"
           }]
       },
       { 
