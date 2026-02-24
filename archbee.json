@@ -6,7 +6,7 @@
     "docsTree": [
       { 
         "name": "Categ 1",
-        "isCategory": true,
+        "isCategory": "true",
         "children": [
           {
             "name": "TEST-JSON",
@@ -15,7 +15,7 @@
       },
       { 
         "name": "Categ 2",
-        "isCategory": true,
+        "isCategory": "true",
         "children": [
           {
             "name": "TEST_JWON_2",
@@ -25,7 +25,7 @@
       },
        { 
         "name": "Categ 3",
-         "isCategory": true,
+         "isCategory": "true",
         "children": [
           {
             "name": "TEST_JWON_3",
