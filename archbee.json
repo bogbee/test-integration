@@ -6,15 +6,18 @@
     "docsTree": [
       { 
         "name": "Categ 1",
+        "path": "",
         "isCategory": true,
         "children": [
           {
             "name": "TEST-JSON",
-            "path": "categ/test.md"
+            "path": "categ/test.md",
+            "children": []
           }]
       },
       { 
         "name": "Categ 2",
+        "path": "",
         "isCategory": true,
         "children": [
           {
@@ -25,6 +28,7 @@
       },
        { 
         "name": "Categ 3",
+         "path": "",
          "isCategory": true,
         "children": [
           {
