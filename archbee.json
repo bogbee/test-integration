@@ -5,7 +5,7 @@
     "assets": "assets",
     "docsTree": [
       { 
-        "name": "Categ 1",
+        "categoryName": "Categ 1",
         "path": "",
         "isCategory": true,
         "children": [
@@ -16,7 +16,7 @@
           }]
       },
       { 
-        "name": "Categ 2",
+        "categoryName": "Categ 2",
         "path": "",
         "isCategory": true,
         "children": [
@@ -27,7 +27,7 @@
           }]
       },
        { 
-        "name": "Categ 3",
+        "categoryName": "Categ 3",
          "path": "",
          "isCategory": true,
         "children": [
