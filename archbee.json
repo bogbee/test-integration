@@ -24,6 +24,10 @@
             "name": "TEST_JWON_2",
             "path": "docs/cc/test3.md",
             "children": []
+          }, {
+               "name": "README-TEst",
+            "path": "README.md",
+            "children": []
           }]
       },
        { 
