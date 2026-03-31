@@ -16,4 +16,4 @@ com 5
 
 com 6
 
-com7 8 9
+com7 8 9 10
